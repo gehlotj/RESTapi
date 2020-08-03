@@ -6,19 +6,19 @@ The demo example uses PUT,DELETE,GET and POST method. The program has a simple i
 ### Usage
 $ flask db_create\
 $ flask db_seed\
-$ python3 app.py\
+$ python3 app.py
 
 * To retrieve token\
 http://localhost:5000/login \
 In postman pass following form data:\
- ```email = rverma@goldmine.com```
+ ```email = rverma@goldmine.com```\
  ```password = audi```
 
 * To add student\
 http://localhost:5000/add_student \
 In postman pass following form data:\
- ```student_id = 1```
- ```first_name = Jagga```
+ ```student_id = 1```\
+ ```first_name = Jagga```\
  ```last_name = Denim```
  ```grade = 9```
 
@@ -31,5 +31,5 @@ http://localhost:5000/delete_student \
 In postman pass following form data:\
  ```student_id = 1```
 
- #### Reference:\
+ #### Reference:
  * Postman :- https://www.postman.com/
