@@ -1,5 +1,5 @@
 # RESTful API using python and flask
-The purpose of this demo is to create a simple REST API. We will be using python and Flask as our design platform and sql-lite for our database operation and postman to test our API.
+The purpose of this demo is to create a simple REST API. We will be using python and Flask as our design platform and sqlite for our database operation and postman to test our API.
 
 The demo example uses PUT,DELETE,GET and POST method to demonstrate the basic functionality of API. The program also has a basic JWT authentication model implementation as well.
 
